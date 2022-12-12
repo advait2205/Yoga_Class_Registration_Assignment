@@ -1,0 +1,28 @@
+/* Main css file for handling index.ejs file where main frontend is located */
+body{
+	text-align: center !important;
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+select {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
