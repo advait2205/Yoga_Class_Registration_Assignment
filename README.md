@@ -31,6 +31,11 @@ If the user forget his/her password, can reset by entering the registered Email 
 
 <img src="./docs/forgetpass.PNG" height="200" width="400" style="border: 1px solid black;">
 
+### ER Diagram
+The ER diagram for the given system at the moment is:
+
+![image](https://user-images.githubusercontent.com/55663137/207047718-d6efba12-0f6c-4807-8621-4f5c2773ad5c.png)
+
 ### DataBase:
 Here we use **[MongoDB Atlas(Cloud)](https://www.mongodb.com/cloud/atlas)** as the database. Here we have two collection created, named as:
 - users.
